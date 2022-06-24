@@ -3,7 +3,7 @@ fun main(args: Array<String>) {
     println("Hello, World!!")
 
     // var는 변수가 언제든지 바뀔 수 있다.
-    // val은 변수를 설정하면 절대 바뀌지 않고 고정된다.
+    // val은 변수를 설정하면 절대 바뀌지 않고 고정된다. final 같은 것
 
     // 변수
     // 1. 변할 수 있는 수 (값)
@@ -33,4 +33,5 @@ fun main(args: Array<String>) {
     var b3 : Boolean = false    // True or False 논리타입
     var b4 : Float = 0.123F     // 실수형 (소수) 접미어로 F가 붙어야한다.
     println(b4)
+
 }
