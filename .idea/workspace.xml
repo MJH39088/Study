@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/SubProgram2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfStudy.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SubProgram2Kt">
+  <component name="RunManager" selected="Kotlin.IfStudyKt">
+    <configuration name="IfStudyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfStudyKt" />
+      <module name="Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainProgramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MainProgramKt" />
       <module name="Study" />
@@ -61,6 +68,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.IfStudyKt" />
         <item itemvalue="Kotlin.SubProgram2Kt" />
         <item itemvalue="Kotlin.SubProgramKt" />
         <item itemvalue="Kotlin.MainProgramKt" />
@@ -104,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656093371983</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1656226586030</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656226586030</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
