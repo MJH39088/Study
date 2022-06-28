@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/IfStudy.kt" afterDir="false" />
+    <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment="if문과 when문 공부">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForWhileStudy.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,14 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.IfStudyKt">
+  <component name="RunManager" selected="Kotlin.ForWhileStudyKt">
+    <configuration name="ForWhileStudyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForWhileStudyKt" />
+      <module name="Study" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="IfStudyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IfStudyKt" />
       <module name="Study" />
@@ -68,6 +75,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ForWhileStudyKt" />
         <item itemvalue="Kotlin.IfStudyKt" />
         <item itemvalue="Kotlin.SubProgram2Kt" />
         <item itemvalue="Kotlin.SubProgramKt" />
@@ -119,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656226586030</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="if문과 when문 공부">
+      <created>1656314157067</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1656314157067</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -135,6 +150,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
-    <option name="LAST_COMMIT_MESSAGE" value="." />
+    <MESSAGE value="if문과 when문 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="if문과 when문 공부" />
   </component>
 </project>
