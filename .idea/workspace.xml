@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment="if문과 when문 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ForWhileStudy.kt" afterDir="false" />
+    <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment="for 문과 while 문 공부">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/NullStudy.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +37,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ForWhileStudyKt">
+  <component name="RunManager" selected="Kotlin.NullStudyKt">
     <configuration name="ForWhileStudyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ForWhileStudyKt" />
       <module name="Study" />
@@ -52,8 +52,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainProgramKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainProgramKt" />
+    <configuration name="NullStudyKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullStudyKt" />
       <module name="Study" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,11 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NullStudyKt" />
         <item itemvalue="Kotlin.ForWhileStudyKt" />
         <item itemvalue="Kotlin.IfStudyKt" />
         <item itemvalue="Kotlin.SubProgram2Kt" />
         <item itemvalue="Kotlin.SubProgramKt" />
-        <item itemvalue="Kotlin.MainProgramKt" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656314157067</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="for 문과 while 문 공부">
+      <created>1656400335026</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1656400335026</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,6 +158,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="." />
     <MESSAGE value="if문과 when문 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="if문과 when문 공부" />
+    <MESSAGE value="for 문과 while 문 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="for 문과 while 문 공부" />
   </component>
 </project>
