@@ -1,0 +1,3 @@
+class Benz : Car() {
+
+}
