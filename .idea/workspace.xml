@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment="Nullable과 Non-Null 공부">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Car.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/CarTest.kt" afterDir="false" />
+    <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment="클래스와 상속 공부">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Benz.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Benz.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Car.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Car.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/CarTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/CarTest.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -150,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656493248424</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="클래스와 상속 공부">
+      <created>1656697339899</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656697339900</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -169,6 +177,7 @@
     <MESSAGE value="if문과 when문 공부" />
     <MESSAGE value="for 문과 while 문 공부" />
     <MESSAGE value="Nullable과 Non-Null 공부" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nullable과 Non-Null 공부" />
+    <MESSAGE value="클래스와 상속 공부" />
+    <option name="LAST_COMMIT_MESSAGE" value="클래스와 상속 공부" />
   </component>
 </project>
