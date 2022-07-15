@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment="메소드">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/PersonExcute.kt" afterDir="false" />
+    <list default="true" id="5b9874e2-2a48-4cb8-8c44-6e4c884c52e0" name="Changes" comment="생성자 getter &amp; setter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Person.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Person.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -167,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657785205106</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="생성자 getter &amp; setter">
+      <created>1657873615994</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1657873615994</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +194,7 @@
     <MESSAGE value="Nullable과 Non-Null 공부" />
     <MESSAGE value="클래스와 상속 공부" />
     <MESSAGE value="메소드" />
-    <option name="LAST_COMMIT_MESSAGE" value="메소드" />
+    <MESSAGE value="생성자 getter &amp; setter" />
+    <option name="LAST_COMMIT_MESSAGE" value="생성자 getter &amp; setter" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 class Person constructor(name: String, age: Int) {
     // var를 넣으면 getter setter 둘다 가능, val은 가져오는 행위밖에 못함
-    // 주 생성자로부터 받은 매개변수를 초기화 할 때 활용
+    // custom getter & setter
     var name : String = name
     get () {
         return field //field는 바로 위의 변수를 나타냄
@@ -17,6 +17,7 @@ class Person constructor(name: String, age: Int) {
         field = value + 40
     }
 
+    // 주 생성자로부터 받은 매개변수를 초기화 할 때 활용
     init {
 //        println(name + " " + age)
     }
@@ -25,5 +26,5 @@ class Person constructor(name: String, age: Int) {
 //        println(_name + " " + _age + " " + height)
     }
 
-    // getter & setter
+
 }
